@@ -8,4 +8,6 @@
     <string name="yellow">YELLOW</string>
     <string name="green">GREEN</string>
     <string name="red">Red</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
 </resources>
